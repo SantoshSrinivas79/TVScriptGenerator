@@ -4,7 +4,8 @@ Using OpenAI's GPT-3 beta and Recurrent Neural Networks to generate novel tv scr
 
 ## GRU Handcoded RNN
 
-```Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
+```
+Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
               You're going to you at eetthem for the door? Elaine: This is a packian around. And just coffee show 
               ugly you what we're going to be home. New scene.Jerry : I bought breath not only think - I'm not mad.Jerry: Ah. You got the judior room. Jerry: They juice look of the word is sorry you. It's 1:30.Fabbull: Co-on. What is the pain? So look Ya 
               you 
