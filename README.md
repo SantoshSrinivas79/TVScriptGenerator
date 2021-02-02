@@ -40,3 +40,23 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
 ## Word2Vec & LSTM RNN
 
 ## GPT-3 beta
+```
+Elaine: I don't want any soup. I want the check. 
+
+Jerry: You're getting the soup. You have to finish what you ordered. It's the law. 
+
+Elaine: Oh, yeah? Well, you know it's my policy to leave an extra big tip for poor service. (Takes out her wallet and gives Jerry a tip) Here's your tip . . . (She takes out a dollar bill and stuffs it into his shirt pocket). Put that in your purse!
+
+(Elaine is back at the counter and orders a cup of coffee. The waitress spoons lumps into her cup, Elaine takes out a teaspoon and starts stirring it)
+
+Waitress: That'll be $1.25. Elaine: (Handing her a dollar and a quarter) Here's the tip. And I'm keeping the spoon. 
+
+(George is back at Jerry's apartment. Kramer is in the kitchen, making tomato sauce) 
+
+Kramer: Hey George, you gonna help me with this? I could use another hand here! 
+
+George: (Coming into the kitchen) What do you want me to do? 
+
+Kramer: Come on, stir this! Just make yourself useful here! It's not that hard! (Tries to grab the spoon from George) Hey! Don't touch that spoon! That's my spoon. Here, get your own damn spoon. Where are you going with it? Get back over here and stir this sauce . . . (The phone rings and Kramer starts running around looking for it) Hello? Yeah? No, she just left. She was wearing a red leather jacket with like uh . . . yellow piping on it. Yeah, okay bye-bye. (Hangs up) That was Elaine's friend Tina from out of town who she thinks has amnesia because she can't remember her name or where she lives. So Elaine says we have to go out and find her before she forgets who we are too... You're not stirring that sauce, are you?! You're supposed to be stirring it! What do you think I am paying you for?! Oh-oh-oh-oh-oh oh oh oh ohhh!! We gotta go!! We gotta go right now!! C'mon c'mon c'mon c'mon!!! Get your coat on!! We've got to go right now!! Why aren't you putting your coat on?! Why aren't you moving?? Why don't you move faster?! This woman could be in danger of losing her mind!!! Move faster -- move faster!!!!! Let's go!!!! Let's goooooooooo!!!!!!
+
+```
