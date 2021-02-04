@@ -1,7 +1,7 @@
 # Seinfeld Script Generator
 ### Synopsis
 
-Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt file, cleaned of extra unicode characters and unstructured segments, then fed into a simple GRU neural network which predicts by character, a more complex LSTM neural network which predicts by word, with a pretrained hidden layer(word2vec), and finally into GPT-3 beta.
+Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt file, cleaned of extra unicode characters and unstructured segments, then fed into a simple GRU neural network which predicts by character, a more complex LSTM neural network which predicts by word, with a pretrained hidden layer(word2vec), and finally into GPT-3 beta. I chose Seinfeld because I’m a fan of the show, I’ve seen every episode, and I would be able to tell if the generated episodes have that special Seinfeld ring to them
 
 ### Tech
 
