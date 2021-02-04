@@ -36,6 +36,9 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
 ```
         
 ## Word2Vec & LSTM RNN
+```
+lorem ipsum
+```
 
 ## GPT-3 beta
 ```
