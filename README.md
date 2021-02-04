@@ -1,8 +1,29 @@
 # TVScriptGenerator
+### Synopsis
 
-Using OpenAI's GPT-3 beta and Recurrent Neural Networks to generate novel tv scripts
+Sentiment Analysis using three classifiers such as Logistic Regression, Ensemble Classifier and Neural Network on the text data.
 
-## GRU Handcoded RNN
+### Tech
+
+- Python
+- Jupyter Notebook
+- Google Collab
+
+### Packages
+
+The following are the necessary packages to run the python Source code
+
+- matplotlib
+- pandas
+- nltk
+- RE
+- loggin
+- tensorflow
+- gensim
+- numpy
+- sklearn
+
+### GRU Handcoded RNN
 
 ```
 Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
@@ -35,12 +56,12 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
         Now OF Mays.
 ```
         
-## Word2Vec & LSTM RNN
+### Word2Vec & LSTM RNN
 ```
 lorem ipsum
 ```
 
-## GPT-3 beta
+### GPT-3 beta
 ```
 Elaine: I don't want any soup. I want the check. 
 
