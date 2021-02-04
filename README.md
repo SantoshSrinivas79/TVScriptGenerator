@@ -9,9 +9,7 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 - Jupyter Notebook
 - Google Collab
 
-### Packages
-
-The following are the necessary packages to run the python Source code
+### Packages Required
 
 - matplotlib
 - pandas
@@ -22,6 +20,7 @@ The following are the necessary packages to run the python Source code
 - gensim
 - numpy
 - sklearn
+
 ### Output ###
 ### GRU Handcoded RNN
 
