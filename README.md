@@ -22,7 +22,7 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 - sklearn
 
 ### Output ###
-### GRU Handcoded RNN
+### GRU Recurrent Neural Network
 
 ```
 Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
@@ -55,7 +55,7 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
         Now OF Mays.
 ```
         
-### Word2Vec & LSTM RNN
+### Word2Vec & LSTM Recurrent 
 ```
 lorem ipsum
 ```
