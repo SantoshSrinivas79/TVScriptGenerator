@@ -17,9 +17,10 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 - RE
 - loggin
 - tensorflow
-- gensim
+- gensim(word2vec)
 - numpy
 - sklearn
+- Beautifulsoup
 
 ### Output ###
 ### GRU Recurrent Neural Network
