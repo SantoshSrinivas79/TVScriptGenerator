@@ -1,4 +1,4 @@
-# TVScriptGenerator
+# Seinfeld Script Generator
 ### Synopsis
 
 Sentiment Analysis using three classifiers such as Logistic Regression, Ensemble Classifier and Neural Network on the text data.
@@ -22,7 +22,7 @@ The following are the necessary packages to run the python Source code
 - gensim
 - numpy
 - sklearn
-
+### Output ###
 ### GRU Handcoded RNN
 
 ```
