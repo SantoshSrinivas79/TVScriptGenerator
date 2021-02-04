@@ -11,15 +11,11 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 
 ### Packages Required
 
-- matplotlib
+- numpy
 - pandas
 - nltk
-- RE
-- loggin
 - tensorflow
 - gensim(word2vec)
-- numpy
-- sklearn
 - Beautifulsoup
 
 ### Output ###
