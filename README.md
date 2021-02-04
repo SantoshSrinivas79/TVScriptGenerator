@@ -35,8 +35,6 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
         Now OF Mays.
 ```
         
-## LSTM Handcoded RNN
-
 ## Word2Vec & LSTM RNN
 
 ## GPT-3 beta
