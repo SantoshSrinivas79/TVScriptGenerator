@@ -22,7 +22,7 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 ### GRU Recurrent Neural Network
 
 ```
-Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
+**[Jerry and George are on the phone with Elaine] Jerry: I’ll be right there. Elaine: What happened? George:** Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, just shoot!!! Jerry and like I should have then you're in the ball!Jerry: Is there, sob. As she was my warring the crowd, the mau gang. 
               You're going to you at eetthem for the door? Elaine: This is a packian around. And just coffee show 
               ugly you what we're going to be home. New scene.Jerry : I bought breath not only think - I'm not mad.Jerry: Ah. You got the judior room. Jerry: They juice look of the word is sorry you. It's 1:30.Fabbull: Co-on. What is the pain? So look Ya 
               you 
@@ -54,27 +54,29 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
         
 ### LSTM Recurrent Neural Network with embedded Keras Tokenizer 
 ```
-lorem ipsum
+**[Jerry and George are on the phone with Elaine] Jerry: I’ll be right there. Elaine: What happened? George:**
 ```
 
 ### GPT-3 beta
 ```
-Elaine: I don't want any soup. I want the check. 
-
-Jerry: You're getting the soup. You have to finish what you ordered. It's the law. 
-
-Elaine: Oh, yeah? Well, you know it's my policy to leave an extra big tip for poor service. (Takes out her wallet and gives Jerry a tip) Here's your tip . . . (She takes out a dollar bill and stuffs it into his shirt pocket). Put that in your purse!
-
-(Elaine is back at the counter and orders a cup of coffee. The waitress spoons lumps into her cup, Elaine takes out a teaspoon and starts stirring it)
-
-Waitress: That'll be $1.25. Elaine: (Handing her a dollar and a quarter) Here's the tip. And I'm keeping the spoon. 
-
-(George is back at Jerry's apartment. Kramer is in the kitchen, making tomato sauce) 
-
-Kramer: Hey George, you gonna help me with this? I could use another hand here! 
-
-George: (Coming into the kitchen) What do you want me to do? 
-
-Kramer: Come on, stir this! Just make yourself useful here! It's not that hard! (Tries to grab the spoon from George) Hey! Don't touch that spoon! That's my spoon. Here, get your own damn spoon. Where are you going with it? Get back over here and stir this sauce . . . (The phone rings and Kramer starts running around looking for it) Hello? Yeah? No, she just left. She was wearing a red leather jacket with like uh . . . yellow piping on it. Yeah, okay bye-bye. (Hangs up) That was Elaine's friend Tina from out of town who she thinks has amnesia because she can't remember her name or where she lives. So Elaine says we have to go out and find her before she forgets who we are too... You're not stirring that sauce, are you?! You're supposed to be stirring it! What do you think I am paying you for?! Oh-oh-oh-oh-oh oh oh oh ohhh!! We gotta go!! We gotta go right now!! C'mon c'mon c'mon c'mon!!! Get your coat on!! We've got to go right now!! Why aren't you putting your coat on?! Why aren't you moving?? Why don't you move faster?! This woman could be in danger of losing her mind!!! Move faster -- move faster!!!!! Let's go!!!! Let's goooooooooo!!!!!!
+**[Jerry and George are on the phone with Elaine] Jerry: I’ll be right there. Elaine: What happened? George:** Nothing. Jerry: Nothing happened. George: Nothing happened. Elaine: What did they say? Jerry: They were just trying to get us to go to a party with them. Elaine: What’s the matter? Jerry: We’re not going! Elaine: What? Jerry: We’re not going! [Elaine starts crying] George: It’s not that big of a deal!
+Jerry: I’m sorry, I’d like to help you, but I really don’t know what
+happened. I was in the bathroom for about an hour and when I came out, he
+was gone. George: Why didn’t you call me?! You know how long it took me to
+get here? Jerry: Well, I didn’t have your number... George (becoming angry):
+Did you look in my wallet? Did you look in my wallet?! [Jerry nods his head]
+George (frustrated): Oh, great! Now he’s got my wallet!
+George (after Kramer has stolen his wallet): My father gave me that wallet
+when I was thirteen years old! Kramer (stunned): Thirteen?! Are you sure?!
+[George nods] Kramer (shocked): Oh, man... [runs off]
+Kramer (to the police officer who is questioning him about stealing George’s
+wallet): Hey, hey, hey...now wait a minute...you’re not pinning this on
+me...I had nothing to do with this...I’m as innocent as a baby in the womb...
+[the cop looks at him with disgust] You got something against babies in the
+womb?! [the cop continues looking at him with disgust] All right, all right,
+all right...[the cop walks away from him] All right now look...[the cop turns
+around and looks at him again] All right now listen to me; if it wasn’t for
+me there would be no show about nothing; so why don’t you just leave me alone
+and let me do my job?!”
 
 ```
