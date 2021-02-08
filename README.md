@@ -52,7 +52,7 @@ Jerry: Looking at Coffee shriks (meat) Nodoin [ a manager:] End Elaine: which, j
         Now OF Mays.
 ```
         
-### Word2Vec & LSTM Recurrent 
+### LSTM Recurrent Neural Network with embedded Keras Tokenizer 
 ```
 lorem ipsum
 ```
