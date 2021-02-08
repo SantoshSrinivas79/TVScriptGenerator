@@ -59,12 +59,22 @@ Using Scripts scraped from https://www.seinfeldscripts.com, combined into a .txt
 
 ### GPT-3 beta
 ```
-**[Jerry and George are on the phone with Elaine] Jerry: I’ll be right there. Elaine: What happened? George:** Nothing. Jerry: Nothing happened. George: Nothing happened. Elaine: What did they say? Jerry: They were just trying to get us to go to a party with them. Elaine: What’s the matter? Jerry: We’re not going! Elaine: What? Jerry: We’re not going! [Elaine starts crying] George: It’s not that big of a deal!
+**[Jerry and George are on the phone with Elaine] Jerry: I’ll be right there. Elaine: What happened? George:** Nothing. 
+Jerry: Nothing happened. 
+George: Nothing happened. 
+Elaine: What did they say? 
+Jerry: They were just trying to get us to go to a party with them. 
+Elaine: What’s the matter? Jerry: We’re not going! 
+Elaine: What? 
+Jerry: We’re not going! [Elaine starts crying] 
+George: It’s not that big of a deal!
 Jerry: I’m sorry, I’d like to help you, but I really don’t know what
 happened. I was in the bathroom for about an hour and when I came out, he
-was gone. George: Why didn’t you call me?! You know how long it took me to
-get here? Jerry: Well, I didn’t have your number... George (becoming angry):
-Did you look in my wallet? Did you look in my wallet?! [Jerry nods his head]
+was gone. 
+George: Why didn’t you call me?! You know how long it took me to
+get here? 
+Jerry: Well, I didn’t have your number... 
+George (becoming angry): Did you look in my wallet? Did you look in my wallet?! [Jerry nods his head]
 George (frustrated): Oh, great! Now he’s got my wallet!
 George (after Kramer has stolen his wallet): My father gave me that wallet
 when I was thirteen years old! Kramer (stunned): Thirteen?! Are you sure?!
